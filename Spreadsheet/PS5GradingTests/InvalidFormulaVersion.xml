@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<spreadsheet IsValid="^.*$">
+  <cell name = "A1" contents="=Z2"></cell>
+</spreadsheet>

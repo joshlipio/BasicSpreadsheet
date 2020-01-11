@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<spreadsheet IsValid="^.*$">
+  <hole name = "A1" contents="1.5"></hole>
+</spreadsheet>
